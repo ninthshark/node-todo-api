@@ -1,4 +1,4 @@
-//const MongoClient = require('mongodb').MongoClient;
+
 // Below is identical as above using ES6 syntax calle destructuring
 const {MongoClient, ObjectID} = require('mongodb');
 
